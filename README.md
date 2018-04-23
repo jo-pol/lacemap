@@ -16,4 +16,3 @@ enhance the [wiki] pages, join the [moderators]...
 [moderators]: https://github.com/orgs/lacemap/teams/moderators
 [usage policy]: https://operations.osmfoundation.org/policies/tiles/
 
-Just testing a github feature: https://github.com/lacemap/lacemap.github.io/blob/fc099869b510cce32add008c8d0e47192d57b1d9/index.html#L11
